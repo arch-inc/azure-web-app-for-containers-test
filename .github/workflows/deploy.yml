@@ -4,7 +4,7 @@ on:
     branches:
       - master
 env:
-  AZURE_WEBAPP_NAME: azure-webapp-container-test
+  AZURE_WEBAPP_NAME: azure-web-app-for-containers-test
 jobs:
   build:
     name: Build
